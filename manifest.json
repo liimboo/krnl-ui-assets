@@ -1,0 +1,165 @@
+{
+ "version": 1,
+ "files": [
+  {
+   "path": "workspace/assets/models/csgo terrorist/csgo_terrorist_characters.mtl",
+   "bytes": 1182,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/csgo terrorist/csgo_terrorist_characters.obj",
+   "bytes": 2229240,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/csgo terrorist/t_base_fingerless_glove_baseColor.png",
+   "bytes": 838319,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/csgo terrorist/tm_leet_v2_body_variantB_baseColor.png",
+   "bytes": 1512701,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/csgo terrorist/tm_leet_v2_head_variantB_baseColor.png",
+   "bytes": 879831,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/csgo terrorist/tm_leet_v2_lower_body_variantB_baseColor.png",
+   "bytes": 1362724,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/csgo terrorist/w_model_bare_arms_133_baseColor.png",
+   "bytes": 100912,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Granite_Dark_Gray_2_baseColor.jpg",
+   "bytes": 55039,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Iris_baseColor.jpg",
+   "bytes": 58796,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__10_baseColor.jpg",
+   "bytes": 160480,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__11_baseColor.jpg",
+   "bytes": 95159,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__12_baseColor.jpg",
+   "bytes": 53126,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__13_baseColor.jpg",
+   "bytes": 90923,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__14_baseColor.jpg",
+   "bytes": 53201,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__15_baseColor.jpg",
+   "bytes": 127935,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/Material__16_baseColor.jpg",
+   "bytes": 47960,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/gman_half-life_2.mtl",
+   "bytes": 1826,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/models/HL2 Gman/gman_half-life_2.obj",
+   "bytes": 1099193,
+   "group": "models"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_bubble_off.wav",
+   "bytes": 15512,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_bubble_on.wav",
+   "bytes": 15512,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_click.wav",
+   "bytes": 8896,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_close.wav",
+   "bytes": 20804,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_key_a.wav",
+   "bytes": 10220,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_key_b.wav",
+   "bytes": 10220,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_key_c.wav",
+   "bytes": 10220,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_knock.wav",
+   "bytes": 8456,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_low.wav",
+   "bytes": 25214,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_mail.wav",
+   "bytes": 58730,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_mrrp.wav",
+   "bytes": 35798,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_open.wav",
+   "bytes": 20804,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_pop.wav",
+   "bytes": 14630,
+   "group": "sounds"
+  },
+  {
+   "path": "workspace/assets/sounds/sfx1_tick.wav",
+   "bytes": 8896,
+   "group": "sounds"
+  }
+ ]
+}
